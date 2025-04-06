@@ -1,6 +1,6 @@
 # Superstore-Sales-Analysis-Dashboard
 
-📌 Overview
+📌 Overview: 
 This project analyzes sales data from a Superstore using SQL for data cleaning and transformation, and Power BI for creating interactive visual dashboards.
 
 The goal is to uncover business insights like:
